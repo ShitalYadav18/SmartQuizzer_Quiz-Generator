@@ -1,0 +1,7 @@
+streamlit
+pdfplumber
+plotly
+pandas
+huggingface_hub
+transformers
+torch

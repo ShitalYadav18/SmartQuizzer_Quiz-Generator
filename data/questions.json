@@ -1,0 +1,38 @@
+[
+  {
+    "question": "What drove the Great Oxidation Event?",
+    "answer": "photosynthetic cyanobacteria",
+    "distractors": [
+      "volcanic eruptions",
+      "plate tectonics",
+      "continental drift"
+    ],
+    "difficulty": "medium",
+    "topic": "photosynthesis",
+    "type": "mcq"
+  },
+  {
+    "question": "When did the Great Oxidation Event begin?",
+    "answer": "2.4 billion years ago",
+    "distractors": [
+      "1.8 billion years ago",
+      "3.5 billion years ago",
+      "4.5 billion years ago"
+    ],
+    "difficulty": "easy",
+    "topic": "photosynthesis",
+    "type": "true_false"
+  },
+  {
+    "question": "What would happen if photosynthesis ceased?",
+    "answer": "most organisms would disappear",
+    "distractors": [
+      "plants would become more diverse",
+      "animals would become more intelligent",
+      "the atmosphere would become more oxygen-rich"
+    ],
+    "difficulty": "hard",
+    "topic": "photosynthesis",
+    "type": "short_answer"
+  }
+]
